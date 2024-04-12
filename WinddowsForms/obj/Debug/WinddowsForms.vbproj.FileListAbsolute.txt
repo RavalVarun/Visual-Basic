@@ -1,0 +1,13 @@
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\bin\Debug\WinddowsForms.exe.config
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\bin\Debug\WinddowsForms.exe
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\bin\Debug\WinddowsForms.pdb
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\bin\Debug\WinddowsForms.xml
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\obj\Debug\WinddowsForms.vbproj.AssemblyReference.cache
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\obj\Debug\WinddowsForms.Resources.resources
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\obj\Debug\WinddowsForms.vbproj.GenerateResource.cache
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\obj\Debug\WinddowsForms.vbproj.CoreCompileInputs.cache
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\obj\Debug\WinddowsForms.exe
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\obj\Debug\WinddowsForms.xml
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\obj\Debug\WinddowsForms.pdb
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\obj\Debug\WinddowsForms.CalculationForm.resources
+C:\Users\Varun\Documents\Courses\VB\WinForms\WinddowsForms\obj\Debug\WinddowsForms.UserInput.resources

@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB2B631-1ED8-4BEF-9EE1-7A2D47E88C28}|WinddowsForms.vbproj|c:\\users\\varun\\documents\\courses\\vb\\winforms\\winddowsforms\\userinput.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1AB2B631-1ED8-4BEF-9EE1-7A2D47E88C28}|WinddowsForms.vbproj|solutionrelative:userinput.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB2B631-1ED8-4BEF-9EE1-7A2D47E88C28}|WinddowsForms.vbproj|C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\userinput.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AB2B631-1ED8-4BEF-9EE1-7A2D47E88C28}|WinddowsForms.vbproj|solutionrelative:userinput.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB2B631-1ED8-4BEF-9EE1-7A2D47E88C28}|WinddowsForms.vbproj|C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\calculationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1AB2B631-1ED8-4BEF-9EE1-7A2D47E88C28}|WinddowsForms.vbproj|solutionrelative:calculationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB2B631-1ED8-4BEF-9EE1-7A2D47E88C28}|WinddowsForms.vbproj|C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\calculationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AB2B631-1ED8-4BEF-9EE1-7A2D47E88C28}|WinddowsForms.vbproj|solutionrelative:calculationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculationForm.vb",
+              "DocumentMoniker": "C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\CalculationForm.vb",
+              "RelativeDocumentMoniker": "CalculationForm.vb",
+              "ToolTip": "C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\CalculationForm.vb",
+              "RelativeToolTip": "CalculationForm.vb",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwDIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T02:49:04.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculationForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\CalculationForm.vb",
+              "RelativeDocumentMoniker": "CalculationForm.vb",
+              "ToolTip": "C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\CalculationForm.vb [Design]",
+              "RelativeToolTip": "CalculationForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T02:45:39.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInput.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\UserInput.Designer.vb",
+              "RelativeDocumentMoniker": "UserInput.Designer.vb",
+              "ToolTip": "C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\UserInput.Designer.vb",
+              "RelativeToolTip": "UserInput.Designer.vb",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAtwKUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T02:28:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInput.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\UserInput.vb",
+              "RelativeDocumentMoniker": "UserInput.vb",
+              "ToolTip": "C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\WinddowsForms\\UserInput.vb [Design]",
+              "RelativeToolTip": "UserInput.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-11T16:33:22.17Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
