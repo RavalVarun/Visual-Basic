@@ -36,11 +36,34 @@
         aiData(3) = 15
         aiData(4) = 85
 
+        Dim i As Integer
+        For i = 0 To 4
+            MsgBox(aiData(i))
+        Next
+
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles btnExercise2.Click
+        'Output Each Item in a separate message one after another
 
+        Dim aiData(4) As Integer
+
+        aiData(0) = 9
+        aiData(1) = 14
+        aiData(2) = 17
+        aiData(3) = 15
+        aiData(4) = 85
+
+        Dim i As Integer
+        Dim stOut As String
+
+        For i - 0 To 4
+            stOut = stOut & aiData(i) & vbNewLine
+        Next
+
+        MsgBox(stOut)
     End Sub
+
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles btnExercise3.Click
 
