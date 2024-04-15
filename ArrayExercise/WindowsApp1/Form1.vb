@@ -28,6 +28,13 @@
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btnExercise1.Click
+        Dim aiData(4) As Integer
+
+        aiData(0) = 9
+        aiData(1) = 14
+        aiData(2) = 17
+        aiData(3) = 15
+        aiData(4) = 85
 
     End Sub
 
