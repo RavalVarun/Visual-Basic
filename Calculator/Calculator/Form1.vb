@@ -54,4 +54,60 @@ Public Class Form1
         Label2.Text = "+"
         TextBox1.Text = ""
     End Sub
+
+    Private Sub Button14_Click(sender As Object, e As EventArgs) Handles Button14.Click
+        Label1.Text = TextBox1.Text
+        Label2.Text = "-"
+        TextBox1.Text = ""
+    End Sub
+
+    Private Sub Button16_Click(sender As Object, e As EventArgs) Handles Button16.Click
+        Label1.Text = TextBox1.Text
+        Label2.Text = "x"
+        TextBox1.Text = ""
+    End Sub
+
+    Private Sub Button15_Click(sender As Object, e As EventArgs) Handles Button15.Click
+        Label1.Text = TextBox1.Text
+        Label2.Text = "/"
+        TextBox1.Text = ""
+    End Sub
+
+    Private Sub Button18_Click(sender As Object, e As EventArgs) Handles Button18.Click
+        TextBox1.Text = ""
+        Label2.Text = ""
+    End Sub
+
+    Private Sub Button17_Click(sender As Object, e As EventArgs) Handles Button17.Click
+        TextBox1.Text = ""
+        Label2.Text = ""
+        Label1.Text = ""
+    End Sub
+
+    Private Sub Button19_Click(sender As Object, e As EventArgs) Handles Button19.Click
+        If Label2.Text = "+" Then
+            TextBox1.Text = Val(Label1.Text) + Val(TextBox1.Text)
+            Label1.Text = ""
+            Label2.Text = "="
+        End If
+
+        If Label2.Text = "-" Then
+            TextBox1.Text = Val(Label1.Text) - Val(TextBox1.Text)
+            Label1.Text = ""
+            Label2.Text = "="
+        End If
+
+        If Label2.Text = "x" Then
+            TextBox1.Text = Val(Label1.Text) * Val(TextBox1.Text)
+            Label1.Text = ""
+            Label2.Text = "="
+        End If
+
+        If Label2.Text = "/" Then
+            TextBox1.Text = Val(Label1.Text) / Val(TextBox1.Text)
+            Label1.Text = ""
+            Label2.Text = "="
+        End If
+
+    End Sub
 End Class
