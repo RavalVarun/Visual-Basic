@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6SyJGb91VHYQmIZiC608cXbJ1h4gdIs5Ts5E+l45s79Qrl2oXtmehvhzEUymeMJsV24OrYogp/3Rs/IHy0xOcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Varun\\Documents\\Courses\\VB\\WinForms\\Calculator\\Calculator\\Calculator.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Varun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Varun\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Varun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Varun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
